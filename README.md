@@ -35,3 +35,6 @@ Follow these steps to install HabitScribe:
 5. Run the Flutter app:
    ```bash
    flutter run
+
+### Link to the demo video
+[Click to watch the Video]([https://drive.google.com/file/d/Your_File_ID/view?usp=sharing](https://drive.google.com/file/d/1vQpqhtgcUte2h1nEA6V0hM_xBMQSRI7u/view)https://drive.google.com/file/d/1vQpqhtgcUte2h1nEA6V0hM_xBMQSRI7u/view)
